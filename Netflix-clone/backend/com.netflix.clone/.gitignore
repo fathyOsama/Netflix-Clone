@@ -1,4 +1,7 @@
 HELP.md
+
+.env.properties
+application-local.properties
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -32,9 +35,12 @@ build/
 ### VS Code ###
 .vscode/
 
-# Environment
-.env.properties
-application-local.properties
+uploads/
+*.mp4
+*.jpg
+*.png
+
+
 
 # Spring config with secrets
 src/main/resources/application.properties
