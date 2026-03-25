@@ -1,7 +1,14 @@
 HELP.md
 
 .env.properties
-application-local.properties
+
+uploads/
+images
+videos
+*.mp4
+*.jpg
+*.png
+
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -35,10 +42,7 @@ build/
 ### VS Code ###
 .vscode/
 
-uploads/
-*.mp4
-*.jpg
-*.png
+
 
 
 

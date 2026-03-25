@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3b64c29-5e45-4a8e-8a81-6ac1b2a552a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/com.netflix.clone/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/com.netflix.clone/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix-clone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/package-lock.json" afterDir="false" />
