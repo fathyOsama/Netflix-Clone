@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3b64c29-5e45-4a8e-8a81-6ac1b2a552a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/com.netflix.clone/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/com.netflix.clone/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/netflix_clone/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/netflix_clone/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3BRabKLuXXNzZDkeZJ3rYyG6P6O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,12 +27,26 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "F:/All my work supplies/All my Project/Netflix_clone-project/Netflix-clone"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Netflix-clone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Netflix-clone" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d3b64c29-5e45-4a8e-8a81-6ac1b2a552a8" name="Changes" comment="" />
